@@ -3,14 +3,14 @@
 	url = https://github.com/RUB-SysSec/nyx-net-profuzzbench
 [submodule "qemu-nyx"]
 	path = qemu-nyx
-	url = https://github.com/nyx-fuzz/QEMU-Nyx.git
+	url = https://github.com/axellervik/QEMU-Nyx.git
 	branch = qemu-nyx-4.2.0
 [submodule "fuzzer"]
 	path = fuzzer
-	url = https://github.com/nyx-fuzz/spec-fuzzer.git
+	url = https://github.com/axellervik/spec-fuzzer.git
 [submodule "libxdc"]
 	path = libxdc
 	url = https://github.com/nyx-fuzz/libxdc.git
 [submodule "packer"]
 	path = packer
-	url = https://github.com/nyx-fuzz/packer.git
+	url = https://github.com/axellervik/packer.git
